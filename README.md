@@ -33,10 +33,10 @@
 ## Progress 6-21 
 
 ### ✅ Finished 
-1. learned the syntax of GSQL (for TigerGraph) and Cypher (for Neo4J).
+1. learned the syntax of GSQL (for TigerGraph) and Cypher (for Neo4j).
 2. run LDBC SNB BI queries on TigerGraph.
 ### 👷 In Progress
 1. implementing LDBC BI queries in addition to Q1, Q5 and Q6 in our system.
 ### 📈 To Do
-1. to run LDBC BI queries on Neo4J.
+1. to run LDBC BI queries on Neo4j.
 2. to make our system support string filtering.
