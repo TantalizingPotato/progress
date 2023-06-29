@@ -22,13 +22,18 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
-## Progress 6-29 (In Progress)
+## Progress 6-29
 
 ### ✅ Finished 
-
+1. run LDBC BI queries on Neo4j.
+2. made our system support string filtering.
+3. fixed some logical bugs about null value processing.
 ### 👷 In Progress
-
+1. implementing LDBC BI queries in addition to Q1, Q5 and Q6 in our system.
 ### 📈 To Do
+1. to try running our system on the datasets of scale-factor 10 and 100.
+2. to read the VLDB 2021 paper _Columnar Storage and List-based Processing for Graph Database Management Systems_.
+3. to learn more about Pytorch Geometric.
 
 ## Progress 6-21 
 
