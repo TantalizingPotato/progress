@@ -22,6 +22,18 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 7-6
+
+### ✅ Finished 
+1. tried the scale factors of 10 and 100, but failed.
+2. read the paper _Columnar Storage and List-based Processing for Graph Database Management Systems_.
+3. implemented LDBC BI queries Q1 to Q10 (except for Q10, which involves shortest path computation).
+### 👷 In Progress
+1. implementing LDBC BI queries Q11 to Q20 in our system.
+### 📈 To Do
+1. to write a script that can automatically run our system on the LDBC BI queries and output the results to files in some format.
+2. to learn more about Pytorch Geometric.
+
 ## Progress 6-29
 
 ### ✅ Finished 
