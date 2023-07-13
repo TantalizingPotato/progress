@@ -22,6 +22,18 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 7-13
+
+### ✅ Finished 
+1. implemented LDBI BI Q11, Q12, Q13, Q14, Q18.
+2. finished the script that automatically runs all LDBC BI queries with pre-generated parameters in one time.
+3. run LDBI BI queries on our system, TigerGraph and Neo4j with the scale factor of 10.
+### 👷 In Progress
+1. implementing LDBC BI queries Q16 and Q17 in our system.
+2. learning Pytorch internals.
+### 📈 To Do
+1. to learn more about Pytorch Geometric.
+
 ## Progress 7-6
 
 ### ✅ Finished 
