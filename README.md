@@ -22,6 +22,19 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 7-20
+
+### ✅ Finished 
+1. built PyTorch from source code and set up the debugging environment.
+2. learned the basic knowledge of TorchScript.
+3. looked into the source code of PyTorch Geometric.
+### 👷 In Progress
+1. implementing LDBC BI queries Q16 and Q17 in our system.
+2. learning Pytorch internals.
+### 📈 To Do
+1. to profile our running code and to see why some operators take much more time.
+
+
 ## Progress 7-13
 
 ### ✅ Finished 
