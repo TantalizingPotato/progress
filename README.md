@@ -22,6 +22,18 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 7-27
+
+### ✅ Finished 
+1. implemented some basic optimisations like merging _filter_ and _project_, merging _join_ and _filter_.
+### 👷 In Progress
+1. profiling our running code to see which operators take more time and trying to analyze the reason.
+2. implementing remaining LDBC BI queries in our system.
+3. learning PyTorch internals.
+### 📈 To Do
+1. to think about the possibility of making CPU and GPU cooperate better.
+2. to add graph-specific optimisations into our system.
+
 ## Progress 7-20
 
 ### ✅ Finished 
@@ -34,7 +46,6 @@
 ### 📈 To Do
 1. to profile our running code and to see why some operators take much more time.
 
-
 ## Progress 7-13
 
 ### ✅ Finished 
@@ -43,9 +54,9 @@
 3. run LDBI BI queries on our system, TigerGraph and Neo4j with the scale factor of 10.
 ### 👷 In Progress
 1. implementing LDBC BI queries Q16 and Q17 in our system.
-2. learning Pytorch internals.
+2. learning PyTorch internals.
 ### 📈 To Do
-1. to learn more about Pytorch Geometric.
+1. to learn more about PyTorch Geometric.
 
 ## Progress 7-6
 
@@ -57,7 +68,7 @@
 1. implementing LDBC BI queries Q11 to Q20 in our system.
 ### 📈 To Do
 1. to write a script that can automatically run our system on the LDBC BI queries and output the results to files in some format.
-2. to learn more about Pytorch Geometric.
+2. to learn more about PyTorch Geometric.
 
 ## Progress 6-29
 
@@ -70,7 +81,7 @@
 ### 📈 To Do
 1. to try running our system on the datasets of scale-factor 10 and 100.
 2. to read the VLDB 2021 paper _Columnar Storage and List-based Processing for Graph Database Management Systems_.
-3. to learn more about Pytorch Geometric.
+3. to learn more about PyTorch Geometric.
 
 ## Progress 6-21 
 
