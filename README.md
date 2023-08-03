@@ -22,10 +22,22 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 8-3
+
+### ✅ Finished 
+1. tested the effects of optimizations implemented last week on different queries and different scale factors.
+### 👷 In Progress
+1. profiling our running code to see which operators take more time and trying to analyze the reason.
+2. implementing remaining LDBC BI queries in our system.
+3. learning PyTorch internals.
+### 📈 To Do
+1. to think about the possibility of making CPU and GPU cooperate better.
+2. to add graph-specific optimisations into our system.
+
 ## Progress 7-27
 
 ### ✅ Finished 
-1. implemented some basic optimisations like merging _filter_ and _project_, merging _join_ and _filter_.
+1. implemented some basic optimisations like merging _filter_ and _project_, merging _join_ and _project_.
 ### 👷 In Progress
 1. profiling our running code to see which operators take more time and trying to analyze the reason.
 2. implementing remaining LDBC BI queries in our system.
