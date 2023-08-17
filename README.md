@@ -22,6 +22,21 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 8-17
+
+### ✅ Finished 
+1. profiled our running code and found that `torch.bincount` takes too much time on GPU in Q3 and Q4, while  `torch.unique ` and  `torch.sort` are relatively slow on CPU.
+2. designed a graph-related optimisation method for our system, in which we compress the edge table and intermediate join results.
+### 👷 In Progress
+1. implementing the graph-related optimisation method into our system.
+2. implementing remaining LDBC BI queries in our system.
+3. learning PyTorch internals.
+### 📈 To Do
+1. to learn about more join methods, like zip join and radix join.
+2. to think about the way we systematically test the performance of PyTorch Tensor operators on CPU and GPU.
+3. to think about the possibility of making CPU and GPU cooperate better.
+
+
 ## Progress 8-3
 
 ### ✅ Finished 
