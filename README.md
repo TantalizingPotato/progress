@@ -22,6 +22,24 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 9-21
+
+### ✅ Finished 
+1. designed the preliminary structure of the paper and started writing the paper.
+2. re-implemented LDBC BI Q9, Q11 and Q12 using `EdgeTable` and `PathTable`, in addition to Q1-Q8.
+### 👷 In Progress
+1. writing the paper.
+2. implementing the graph-related optimisation method into our system.
+3. implementing other LDBC BI queries using new techniques.
+4. implementing remaining LDBC BI queries in our system.
+5. learning PyTorch internals.
+### 📈 To Do
+1. to implement `expand_tree` and `TreeTable` and test the performance of implemented graph-related optimisation.
+2. to learn about more join methods, like zip join and radix join.
+3. to think about the way we systematically test the performance of PyTorch Tensor operators on CPU and GPU.
+4. to think about the possibility of making CPU and GPU cooperate better.
+
+
 ## Progress 9-14
 
 ### ✅ Finished 
