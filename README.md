@@ -25,7 +25,7 @@
 ## Progress 11-2
 
 ### ✅ Finished 
-1. finished and imroved the implementation of `TreeTable`, a class bringing the graph-ralated optimization.
+1. finished and improved the implementation of `TreeTable`, a class bringing the graph-ralated optimization.
 2. conducted comparison experiments on implemented LDBC BI benchmark queries.
 3. conducted comparison experiments on LSQB benchmark queries.
 ### 👷 In Progress
