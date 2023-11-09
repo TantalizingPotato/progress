@@ -22,10 +22,22 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 11-9
+
+### ✅ Finished 
+1. finished implementing all currently supported LDBC BI queries.
+### 👷 In Progress
+1. writing the paper.
+2. learning PyTorch internals.
+3. doing ablation study
+### 📈 To Do
+1. to do scalability test.
+2. to do other experiments like query time breakdown and Performance Per Dollar test.
+
 ## Progress 11-2
 
 ### ✅ Finished 
-1. finished and improved the implementation of `TreeTable`, a class bringing the graph-ralated optimization.
+1. finished and improved the implementation of `TreeTable`, a class bringing in the graph-ralated optimization.
 2. conducted comparison experiments on implemented LDBC BI benchmark queries.
 3. conducted comparison experiments on LSQB benchmark queries.
 ### 👷 In Progress
