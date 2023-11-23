@@ -22,6 +22,17 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 11-23
+
+### ✅ Finished 
+1. finished most of experiments.
+### 👷 In Progress
+1. writing the paper.
+2. learning PyTorch internals.
+### 📈 To Do
+1. to do remaining experiments like Performance Per Dollar test.
+
+
 ## Progress 11-9
 
 ### ✅ Finished 
