@@ -26,6 +26,17 @@
 ## Progress 12-7
 
 ### ✅ Finished 
+1. finished the first round of paper modification.
+### 👷 In Progress
+1. modifying the paper.
+2. learning PyTorch internals.
+### 📈 To Do
+1. to make the paper ready for submission.
+
+
+## Progress 12-7
+
+### ✅ Finished 
 1. finished the first draft of paper.
 ### 👷 In Progress
 1. modifying the paper.
