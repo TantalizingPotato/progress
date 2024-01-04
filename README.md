@@ -22,6 +22,10 @@
 
 > * we choose to implement LDBC-SNB-BI and are working on these now (6/25)
 
+## Progress 1-4
+
+### ✅ Finished 
+1. paper submitted to VLDB.
 
 ## Progress 12-7
 
